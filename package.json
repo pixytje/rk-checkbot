@@ -1,0 +1,11 @@
+{
+  "name": "checkbot",
+  "version": "1.0.0",
+  "description": "Check bots of servers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Rick",
+  "license": "ISC"
+}
